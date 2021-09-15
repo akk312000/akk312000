@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-akk312000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akk312000@gmail.com)](mailto:akk312000@gmail.com)
 
 ## Hi <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">, 
-I'm Ashish Kashyap, I'm a pre-final year student at IIIT Bhopal 👨‍💻 who is passionate about web technologies and open source. I'm also have strong problem solving skills
+I'm Ashish Kashyap, I'm a pre-final year student at IIIT Bhopal 👨‍💻 who is passionate about web technologies and open source. I also have strong problem solving skills
 🏄‍♂️. 
 
-- 🔭 Full Stack Web Development
+- 🔭 Currently learning Web Development
 - 🌱 I love to do Competitive Programming in my free time as well.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
