@@ -1,5 +1,5 @@
 # Ashish Kashyap 
-[![Twitter Badge](https://img.shields.io/twitter/url?label=Ashish_K&style=social&url=https%3A%2F%2Ftwitter.com%2FAshishK31900175)](https://twitter.com/AshishK31900175) [![Linkedin Badge](https://img.shields.io/badge/-ashishkashyap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-kashyap31/)](https://www.linkedin.com/in/kunalraghav/) 
+[![Twitter Badge](https://img.shields.io/twitter/url?label=Ashish_K&style=social&url=https%3A%2F%2Ftwitter.com%2FAshishK31900175)](https://twitter.com/AshishK31900175) [![Linkedin Badge](https://img.shields.io/badge/-ashishkashyap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-kashyap31/)](https://www.linkedin.com/in/ashish-kashyap31/) 
 [![Gmail Badge](https://img.shields.io/badge/-akk312000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akk312000@gmail.com)](mailto:akk312000@gmail.com)
 
 ## Hi 👋, 
