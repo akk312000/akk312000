@@ -6,14 +6,15 @@
 I'm Ashish Kashyap, I'm a pre-final year student at IIIT Bhopal 👨‍💻 who is passionate about web technologies and open source. I also have strong problem solving skills
 🏄‍♂️. 
 
-- 🔭 Currently learning Web Development
+- 🔭 Currently learning Web Development 🚀
 - 🌱 I love to do Competitive Programming in my free time as well.
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: JavaScript,C++, Python3
+-  - 📝 [Resume](https://drive.google.com/file/d/1iNzgLzSjADK3OZV7s0iiuoO4U6LccJ8D/view?usp=sharing)
 
 
-> El Psy Kongroo
+> El Psy Kongroo 
 
 
 ---
