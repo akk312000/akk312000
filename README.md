@@ -18,6 +18,7 @@ I'm Ashish Kashyap, I'm a pre-final year student at IIIT Bhopal 👨‍💻 who 
 
 
 ---
-⭐️ From [AshishKashyap](https://github.com/akk312000)
+![github stats](https://github-readme-stats.vercel.app/api?username=akk312000)
+
 
 ### Show some ❤️ by starring some of the repositories!
