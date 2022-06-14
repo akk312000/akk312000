@@ -7,7 +7,8 @@ I'm Ashish Kashyap, I'm a pre-final year student at IIIT Bhopal 👨‍💻 who 
 🏄‍♂️. 
 
 - 🔭 Currently learning Web Development 🚀
-- 🌱 I love to do Competitive Programming in my free time as well.
+- 🌱 I love to do Competitive Programming.
+- 🦜 Talks about Javascript, React, Next.js
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 - ⚡ Languages: JavaScript ,C++ ,Python3
